@@ -1,0 +1,7 @@
+Operational Excellence
+Security
+Reliability
+Performance Efficiency
+Cost Optimizaition
+Sustainability
+

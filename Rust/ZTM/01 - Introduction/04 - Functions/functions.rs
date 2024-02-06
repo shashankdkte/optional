@@ -1,0 +1,12 @@
+//Encapsulate program functionality
+//Utilized for code organization
+// calling 
+// return
+
+fn add(a:i32,b:i32) -> i32
+{
+  a+b
+}
+
+let x = add(1,1);
+let y = add(3,9);

@@ -1,0 +1,1 @@
+Uniform Resource Locator and its address that users enters in the browser to request a particular web page 

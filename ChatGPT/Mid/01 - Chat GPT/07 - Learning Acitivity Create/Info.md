@@ -1,0 +1,1 @@
+Act as a travel guid and plan a 6 day trip to Paris for family trip
